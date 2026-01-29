@@ -4,6 +4,7 @@
 **Nom :** Times Alfred  
 **Cours :** Data Analytics & Data Science  
 **Session :** Fondamentaux de R  
+**Professeur :** John Benson LOUIS  
 **Date :** 27 janvier 2026  
 
 ## Contenu du dépôt
@@ -18,9 +19,8 @@ Chaque exercice est contenu dans un dossier séparé avec un script R commenté 
 
 ## Instructions
 
-## Instructions
+Chaque script peut être exécuté avec la commande :
 
-Chaque script peut être exécuté avec la commande `source("chemin/du/script.R")`
-dans R ou RStudio.
-
+```r
+source("chemin/du/script.R")
 ---
